@@ -1,0 +1,1 @@
+Project dedicated to learning game developing godot
